@@ -2,7 +2,7 @@
 
 ### Welcome to my GitHub Page
 
-I'm 21 years old and currently studying Corporate Communication at the [University of Milan] (<https://com.cdl.unimi.it/it)>)
+I'm 21 years old and currently studying Corporate Communication at the I'm 21 years old and currently studying Corporate Communication at the  [University of Milan](https://com.cdl.unimi.it/it).
 
 Last year, I had the opportunity to spend my Erasmus experience in [Manchester](https://www.manchester.ac.uk/) wich allowed me to discover a new culture, improve my English, and become more independent. In October, I graduated with a Bachelor's degree in Communication Sciences from the [University of Bergamo](https://www.unibg.it/studiare/corsi/offertaformativa/scienze-comunicazione).
 
