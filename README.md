@@ -11,6 +11,8 @@ Alongside my studies, I work as a hostess at fairs, corporate events, and privat
 These experiences have helped me develop strong communication, interpersonal, and organizational skills, as well as the ability to adapt to different environments and work with people from diverse backgrounds.
 
 
-### My Web Projects
+## My Web Projects
 Here you can find my web projects and the resources I use during my Web Communication course. [Learn Web](https://github.com/ale66/learn-web.git) contains useful materials for learning HTML and CSS. [Learn Web Playground](https://github.com/ale66/learn-web-playground-2026-27.git) is where I share my exercises and experiment with web design. Finally, [My Personal Report](https://github.com/irenesaibene/irenesaibene.github.io-my-repo.git) is the space where I collect my work and document my learning progress. 
 
+## The Campus 
+![](9-DSC_1527-1.jpg)
